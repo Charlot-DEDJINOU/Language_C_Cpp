@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646681148 source:c:\users\charlot espoir\documents\projet\les jeux\concours 2020 e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667917843 source:c:\users\charlot espoir\documents\projet\language c\personne\main.cpp
+	<iostream>
+	<string>
+	"Personne.h"
+
+1667917044 c:\users\charlot espoir\documents\projet\language c\personne\personne.h
+	<string>
+
+1667917858 source:c:\users\charlot espoir\documents\projet\language c\personne\personne.cpp
+	"Personne.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666712469 source:c:\users\charlot espoir\documents\projet\language c\robot\robot.cpp
+	"robot.h"
+	<string>
+	<unistd.h>
+	<array>
+
+1666721679 c:\users\charlot espoir\documents\projet\language c\robot\robot.h
+	<string>
+
+1666711389 source:c:\users\charlot espoir\documents\projet\language c\robot\main.cpp
+	<iostream>
+	"robot.h"
+	<ctime>
+	<unistd.h>
+

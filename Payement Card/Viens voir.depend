@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647944529 source:c:\users\charlot espoir\documents\projet\viens voir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

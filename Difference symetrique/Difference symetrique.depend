@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647560970 source:c:\users\charlot espoir\documents\projet\les concours\débroullards\difference symetrique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

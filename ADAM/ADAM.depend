@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647541552 source:c:\users\charlot espoir\documents\projet\les concours\débroullards\adam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

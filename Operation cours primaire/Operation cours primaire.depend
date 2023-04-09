@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647784141 source:c:\users\charlot espoir\documents\projet\operation cours primaire\main.c
+	<stdio.h>
+	<string.h>
+

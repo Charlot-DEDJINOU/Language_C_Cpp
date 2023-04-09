@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647973523 source:c:\users\charlot espoir\documents\projet\10 kinds of people\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

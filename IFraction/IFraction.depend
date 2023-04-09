@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1667234839 source:c:\users\charlot espoir\documents\projet\language c\ifraction\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"IFraction.h"
+
+1667234839 source:c:\users\charlot espoir\documents\projet\language c\ifraction\ifraction.cpp
+	"IFraction.h"
+	<iostream>
+	<cmath>
+
+1667234839 c:\users\charlot espoir\documents\projet\language c\ifraction\ifraction.h
+	<string>
+

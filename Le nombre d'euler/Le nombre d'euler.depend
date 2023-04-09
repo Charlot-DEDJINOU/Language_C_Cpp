@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647045819 source:c:\users\charlot espoir\documents\projet\les concours\débroullards\le nombre d'euler\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646687630 source:c:\users\charlot espoir\documents\projet\les jeux\somme de deux binaires\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

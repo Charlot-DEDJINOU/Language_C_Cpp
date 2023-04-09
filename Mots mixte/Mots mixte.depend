@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647771791 source:c:\users\charlot espoir\documents\projet\mots mixte\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649425316 source:c:\users\charlot espoir\documents\projet\chemin le plus court\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

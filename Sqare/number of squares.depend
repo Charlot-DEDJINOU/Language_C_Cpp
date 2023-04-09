@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646282695 source:c:\users\hp\documents\number of squares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

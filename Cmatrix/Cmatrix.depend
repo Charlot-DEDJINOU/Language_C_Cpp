@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649428963 source:c:\users\charlot espoir\documents\projet\cmatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
