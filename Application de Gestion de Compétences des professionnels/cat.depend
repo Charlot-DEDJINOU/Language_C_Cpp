@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1670936632 source:c:\users\charlot espoir\documents\projet\qt c++\projet 1\cat\gestion.cpp
+	"Gestion.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1671143296 source:c:\users\charlot espoir\documents\projet\qt c++\projet 1\cat\main.cpp
+	<iostream>
+	"Gestion.h"
+
+1670936963 c:\users\charlot espoir\documents\projet\qt c++\projet 1\cat\gestion.h
+	<string>
+	<vector>
+

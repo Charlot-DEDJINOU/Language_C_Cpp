@@ -1,0 +1,13 @@
+1-Charger en memoire un fichier ( donner le chemin du fichier )
+2-Rajouter une competence a un profil
+3-Retirer une competence a un profil
+4-Rajouter une competence a un professionnel
+5-Retirer une competence a un professionnel
+6-Lister toutes les competences presentes dans le fichier
+7-Lister tous les profils presents dans le fichier
+8-Lister tous les professionnels presents dans le fichier
+9-Lister toutes les competences de un profil specifique
+10-Lister toutes les competences de un professionnel specifique
+11-Lister tous les professionnels correspondant a un profil specifique
+12-Sauvegarder les donnees dans un fichier 
+13-Quitter
